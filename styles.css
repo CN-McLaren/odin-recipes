@@ -33,15 +33,15 @@ img{
 }
 
 .main-content {
-    margin-left:auto;
-    margin-right:auto;
-    width:8em;
+    display:flex;
+    flex-direction: column;
+    align-items: center;
 }
 
 .recipe-page-content {
-    margin-left:auto;
-    margin-right:auto;
-    width:8em;
+    display:flex;
+    flex-direction: column;
+    align-items: center;
 }
 
 .list {
